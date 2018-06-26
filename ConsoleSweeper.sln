@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSweeper.Main", "ConsoleSweeper.Main\ConsoleSweeper.Main.csproj", "{0CA85135-1B4C-40A5-B141-C96999FF9ECD}"
+EndProject
+Global
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CA85135-1B4C-40A5-B141-C96999FF9ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CA85135-1B4C-40A5-B141-C96999FF9ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
